@@ -1,0 +1,29 @@
+header{
+    background-color: #bbbbbb;
+    padding: 20px 0;
+}
+.caja{
+    /* background-color: aquamarine; */
+    position: relative;
+    margin: 0 auto;
+    width: 940px;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+    color: #000;
+}
